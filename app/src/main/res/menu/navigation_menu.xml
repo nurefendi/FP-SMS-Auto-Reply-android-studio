@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/buat_Pesan"
+        android:icon="@mipmap/buatpesan"
+        android:title="Buat Pesan" />
+    <item android:id="@+id/kotak_masuk"
+        android:icon="@mipmap/inbox"
+        android:title="Kotak Masuk" />
+    <item android:id="@+id/pesan_keluar"
+        android:icon="@mipmap/outbox"
+        android:title="Kotak Keluar" />
+    <item android:id="@+id/pengaturan"
+        android:icon="@mipmap/setting"
+        android:title="Pengaturan" />
+
+</menu>

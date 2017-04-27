@@ -16,4 +16,6 @@
     <string name="teruskan">Teruskan</string>
     <string name="hapuspesan">Hapus Pesan</string>
     <string name="confirmation">Konfirmasi</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
 </resources>
